@@ -1,4 +1,3 @@
-
 def accuracy(expected, real):
     total = 0
     correct = 0
